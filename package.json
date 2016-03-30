@@ -1,0 +1,26 @@
+{
+  "name": "iplayerlisting",
+  "version": "1.0.0",
+  "description": "An A-Z listing that displays iPlayer shows.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamiebrown201/iplayer-listing.git"
+  },
+  "keywords": [
+    "BBC",
+    "Iplayer",
+    "TV"
+  ],
+  "author": "Jamie Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamiebrown201/iplayer-listing/issues"
+  },
+  "homepage": "https://github.com/jamiebrown201/iplayer-listing#readme"
+}
