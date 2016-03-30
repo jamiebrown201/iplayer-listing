@@ -2,11 +2,15 @@
   "name": "iplayerlisting",
   "version": "1.0.0",
   "description": "An A-Z listing that displays iPlayer shows.",
-  "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "main": "server.js",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine-node spec"
   },
   "repository": {
     "type": "git",
