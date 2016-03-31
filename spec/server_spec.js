@@ -14,7 +14,7 @@ describe("Server test", function(){
 
     it("returns Hello World", function(done) {
       request.get(base_url, function(error, response, body) {
-        expect(body).toContain("Hello World");
+        expect(body).toContain("Iplayer Listing");
         helloWorld.closeServer();
         done();
       });

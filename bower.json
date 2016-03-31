@@ -1,0 +1,27 @@
+{
+  "name": "iplayerlisting",
+  "description": "An A-Z listing that displays iPlayer shows.",
+  "main": "server.js",
+  "authors": [
+    "Jamie Brown"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "BBC",
+    "Iplayer",
+    "TV"
+  ],
+  "homepage": "https://github.com/jamiebrown201/iplayer-listing",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}
